@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259468870804",
+    "firebase_url": "https://cctv-b080e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cctv-b080e",
+    "storage_bucket": "cctv-b080e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259468870804:android:94deab1557f0ad5668a081",
+        "android_client_info": {
+          "package_name": "com.example.cctv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259468870804-d9g7j15gmnl23oivak2h575s14psvak6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRyrRC8khxOEaUpDDVUIysCc_PDJDEn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259468870804-d9g7j15gmnl23oivak2h575s14psvak6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
